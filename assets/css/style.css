@@ -1,0 +1,18 @@
+body {
+    font-family: 'Share Tech Mono', monospace;
+    color: azure;
+    background-image: url(../images/death-star.png);
+    background-repeat: no-repeat;
+    background-position: fill;
+    background-attachment: local;
+    background-size: cover;
+
+}
+.section-title {
+    font-size: 200%;
+}
+.main-section-title {
+    font-size: 300%;
+    text-align: center;
+    
+}
